@@ -6,7 +6,7 @@ vaktim olursa bir kaç özelliği geliştirme düşüncesindeyim
 
 yatay yada dikey çekilen fotoğrafları otomatik algılama
 
-algılanan yüze göze belirlenen çerçevenin biraz daha genişlemesi
+algılanan yüze göre belirlenen çerçevenin biraz daha genişlemesi
 
 işlemlerin hızlandırılması
 
