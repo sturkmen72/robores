@@ -13,6 +13,7 @@ işlemlerin hızlandırılması
 vb.
 
 ---
+[Programı indirmek için buraya tıklayın](https://github.com/sturkmen72/robores/raw/master/robores.zip)
 
 kullanım ile ilgili açıklama ( bazı kullanıcıların paylaşımları )
 
